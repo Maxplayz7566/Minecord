@@ -1,0 +1,7 @@
+#file: noinspection SpellCheckingInspection,SpellCheckingInspection,SpellCheckingInspection,SpellCheckingInspection
+name: Minecord
+version: '1.0-SNAPSHOT'
+main: net.maxplayz.Minecord
+api-version: '1.21'
+author: 'Maxplayz7566/Tir5d Turtle'
+load: STARTUP
